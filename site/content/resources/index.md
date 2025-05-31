@@ -6,7 +6,9 @@ title: 'Ресурсы'
 ### Партнер/заказчик проекта:
 
 [Московский Политех→](https://mospolytech.ru)
+
 [Журнал «Большая Железяка»→](https://vk.com/zhelezyaka.journal)
+
 [Сибур→](https://www.sibur.ru/ru/)
 
 ### Полезные сслылки:
