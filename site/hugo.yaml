@@ -3,10 +3,31 @@ languageCode: ru-eu
 title: Студенческая дизайн-студия
 theme: hextra
 
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+menu:
+  main:    
+    - name: "О проекте"
+      pageRef: /about
+      weight: 1
+    - name: "Журнал"
+      pageRef: /blog
+      weight: 2
+    - name: "Ресурсы"
+      pageRef: /resources
+      weight: 3
+
+params:
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
     noClasses: false
-    
