@@ -1,4 +1,12 @@
 baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+languageCode: ru-eu
+title: Студенческая дизайн-студия
 theme: hextra
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    
