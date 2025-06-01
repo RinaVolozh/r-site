@@ -16,10 +16,10 @@
     
     <item>
       <title>Арт-объект для компании &#34;Сибур&#34; в Сколково</title>
-      <link>http://localhost:1313/blog/posts/3post/</link>
+      <link>http://localhost:1313/blog/3post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/3post/</guid>
+      <guid>http://localhost:1313/blog/3post/</guid>
       <description>
         
         
@@ -40,34 +40,42 @@
     
     <item>
       <title>Мерч Политеха</title>
-      <link>http://localhost:1313/blog/posts/4post/</link>
+      <link>http://localhost:1313/blog/4post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/4post/</guid>
+      <guid>http://localhost:1313/blog/4post/</guid>
       <description>
         
         
         &lt;p&gt;В течение проекта я участвовала в подпроекте Мерч Политеха. В начале составлялись мудборды (1 изображение), а затем по ним все участвующие в данном подпроекте придумывали концепции будущего мерча. Я создала прростой, но лакончиный дизайн футболки (2 изображение), а также дизайн значков (3-4 изображение). Далее участвовала в обсуждениях и правках всех предоставленных идей, как моих, так и участников, а также помогала создавать концепцию дизайна лого факультетов Мосполитеха.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../post3_1.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;../post4_1.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
 
-    &lt;img src=&#34;../post3_2.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;../post4_2.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
 
-    &lt;img src=&#34;../post3_3.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;../post4_3.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
 
-    &lt;img src=&#34;../post3_4.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;../post4_4.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
 
-    &lt;img src=&#34;../post3_5.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../post4_5.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../post4_6.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../post4_7.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../post4_8.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../post4_9.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Прототипирование компьютерной игры &#34;Кандинский&#34;</title>
-      <link>http://localhost:1313/blog/posts/2post/</link>
+      <link>http://localhost:1313/blog/2post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/2post/</guid>
+      <guid>http://localhost:1313/blog/2post/</guid>
       <description>
         
         
@@ -86,10 +94,10 @@
     
     <item>
       <title>Ребрендинг журнала «Большая Железяка»</title>
-      <link>http://localhost:1313/blog/posts/1post/</link>
+      <link>http://localhost:1313/blog/1post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/1post/</guid>
+      <guid>http://localhost:1313/blog/1post/</guid>
       <description>
         
         
