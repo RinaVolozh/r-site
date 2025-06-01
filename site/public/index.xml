@@ -15,10 +15,10 @@
     
     <item>
       <title>Арт-объект для компании &#34;Сибур&#34; в Сколково</title>
-      <link>http://localhost:1313/blog/3post/</link>
+      <link>http://localhost:1313/blog/posts/3post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/3post/</guid>
+      <guid>http://localhost:1313/blog/posts/3post/</guid>
       <description>
         
         
@@ -39,10 +39,10 @@
     
     <item>
       <title>Мерч Политеха</title>
-      <link>http://localhost:1313/blog/4post/</link>
+      <link>http://localhost:1313/blog/posts/4post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/4post/</guid>
+      <guid>http://localhost:1313/blog/posts/4post/</guid>
       <description>
         
         
@@ -63,10 +63,10 @@
     
     <item>
       <title>Прототипирование компьютерной игры &#34;Кандинский&#34;</title>
-      <link>http://localhost:1313/blog/2post/</link>
+      <link>http://localhost:1313/blog/posts/2post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2post/</guid>
+      <guid>http://localhost:1313/blog/posts/2post/</guid>
       <description>
         
         
@@ -85,10 +85,10 @@
     
     <item>
       <title>Ребрендинг журнала «Большая Железяка»</title>
-      <link>http://localhost:1313/blog/1post/</link>
+      <link>http://localhost:1313/blog/posts/1post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/1post/</guid>
+      <guid>http://localhost:1313/blog/posts/1post/</guid>
       <description>
         
         
